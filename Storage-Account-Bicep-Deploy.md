@@ -1,3 +1,5 @@
+[![web-App-CI](https://github.com/Aum-Kaara/azure-bicep/actions/workflows/WebApp-Deploy.yml/badge.svg)](https://github.com/Aum-Kaara/azure-bicep/actions/workflows/WebApp-Deploy.yml)
+
 # Deploy Azure Bicep using GitHub Actions
 
 ### Create Service Principal in Azure Active Directory
