@@ -43,4 +43,4 @@ jobs:
         with:
           subscriptionId: ${{ secrets.SUBSCRIPTION_ID }}
           resourceGroupName: gh-actions-arm-deployment
-          template: ./azuredeploy.json
+          template: ./main.bicep
