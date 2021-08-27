@@ -2,6 +2,9 @@
 
 ### Create Service Principal in Azure Active Directory
 
+![N|Solid](media/storageaccount/Create%20Azure%20sp%201.png)
+
+
 ### Generate deployment credentials
 
 ```
@@ -38,11 +41,11 @@ resource stg 'Microsoft.Storage/storageAccounts@2019-06-01' = {
 
 From your GitHub repository, select Actions from the top menu.
 
-    Select New workflow.
+  - Select New workflow.
 
-    Select set up a workflow yourself.
+  - Select set up a workflow yourself.
     
-    Replace with below content
+  - Replace with below content
 
 ```
 # This is a basic workflow to help you get started with Actions
