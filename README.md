@@ -2,8 +2,13 @@
 
 ### Create Service Principal in Azure Active Directory
 
+![N|Solid](media/storageaccount/Create%20Azure%20sp.png)
+
 ![N|Solid](media/storageaccount/Create%20Azure%20sp%201.png)
 
+### Give Permission to service principal 
+
+![N|Solid](media/storageaccount/Permission.png)
 
 ### Generate deployment credentials
 
