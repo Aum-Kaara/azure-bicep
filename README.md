@@ -92,3 +92,11 @@ jobs:
           template: ./storageaccount/main.bicep
 
 ```
+
+### Run workflow from Github actions
+
+![N|Solid](media/storageaccount/Github-Action.png)
+
+### Verify resources on Azure portal
+
+![N|Solid](media/storageaccount/Azure.png)
